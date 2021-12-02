@@ -17,8 +17,8 @@ can be multiplied.
 Therefore, different methods to multiply matrices are compared.
 
 About the code:
-The files tropnum.h and io.cpp create the **declaration?? object?? structure??** TropicalNumber so that for these variables the
-tropical operator will be used correctly. 
+The files tropnum.h and io.cpp create the class TropicalNumber so that for these
+variables the tropical operator will be used correctly. 
 
 timer.h is used to compute the running time of a chosen program. This is used to 
 compare different matrix multiplication methods. 
