@@ -36,4 +36,4 @@ the divide and conquer method.
 
 matPowerAndPath.cpp contains an implementation of an algorithm that solves the APSP problem
 and reconstructs the paths. Here different approaches to matrix multiplication are used.
-The time for each of those methods can be measured using timer.h
+The time for each of those methods can be measured using timer.h.
